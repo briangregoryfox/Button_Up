@@ -1,0 +1,29 @@
+.btn-search {
+    display: block;
+    margin: 10px;
+    width: 120px;
+    height: 20px;
+    padding: 30px;
+    border-radius: 35px;
+    background-color: blanchedalmond;
+}
+
+.btn-add {
+    display: block;
+    margin: 10px;
+    width: 10px;
+    height: 20px;
+    padding: 30px;
+    border-radius: 25px;
+    background-color: rgb(19, 131, 34);
+}
+
+.btn-primary {
+    display: block;
+    width: 150px;
+    height: 10px;
+    padding: 25px;
+    background-color: rgb(173, 164, 197);
+    box-shadow: 10px 5px 5px red;
+    color:blanchedalmond
+}
